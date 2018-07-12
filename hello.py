@@ -1,2 +1,2 @@
-print("Ahoj ucastnici!")
+print("Ahoj ucastnici!!")
 
